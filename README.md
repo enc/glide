@@ -449,7 +449,7 @@ The package will not be fetched for other architectures or OSes.
 This package is made available under an MIT-style license. See
 LICENSE.txt.
 
-## Thanks!
+## Thanks!!
 
 We owe a huge debt of gratitude to the [GPM and
 GVP](https://github.com/pote/gpm) projects, which
